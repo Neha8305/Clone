@@ -1,0 +1,467 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.a {
+  padding-top: 20px;
+  text-transform: uppercase;
+  font-family: "prague";
+  letter-spacing: 3px;
+}
+.p1 {
+  line-height: 35px;
+  letter-spacing: 1px;
+  word-spacing: 2px;
+  padding-right: 5px;
+  text-align: justify;
+}
+
+.img {
+  width: 80%;
+}
+#b1 {
+  padding: 10px 20px;
+  margin-top: 23px;
+  margin-top: 170px;
+  margin-bottom: 20px;
+}
+.banner {
+  background-image: url(https://img.freepik.com/free-photo/twigs-leaves-near-lamp-cutlery_23-2147811213.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1725408000&semt=ais_hybrid);
+  background-size: cover;
+  width: 100%;
+}
+.banner1 {
+  background-image: url(https://img.freepik.com/premium-photo/cooking-banner-spices-kitchen-utensils-top-view-free-space-your-text_187166-28393.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1725408000&semt=ais_hybrid);
+  background-size: cover;
+  width: 100%;
+}
+.mt-20 {
+  margin-top: 102px;
+  letter-spacing: 3px;
+}
+.p2 {
+  color: white;
+  text-align: justify;
+  line-height: 40px;
+  letter-spacing: 1px;
+  font-size: 22px;
+  font-family: prague;
+}
+.know {
+  background: #fbac29;
+  padding: 10px 20px;
+  border: 0;
+  margin-top: 30px;
+  margin-bottom: 70px;
+  letter-spacing: 1px;
+  font-weight: bolder;
+}
+.foot {
+  width: 100%;
+}
+
+#para {
+  font-family: prague;
+  word-spacing: 2px;
+  letter-spacing: 2px;
+}
+.social-icons {
+  display: inline-block;
+  font-size: 16px;
+  display: flex;
+  justify-content: space-between;
+  width: 24%;
+}
+.text-left {
+  text-align: left !important;
+}
+.social-icons a {
+  color: #ffad00;
+}
+
+.copyright_text {
+  font-size: 13px;
+}
+#footer_content {
+  padding-left: 32px;
+  padding-right: 32px;
+}
+.fa-2x {
+  font-size: 2em;
+}
+@media (max-width: 768px) {
+  .img {
+    width: 100%;
+    margin-top: 26px;
+  }
+  #b1 {
+    margin-top: 10px;
+    margin-bottom: 0;
+  }
+}
+@media (max-width: 1400px) {
+}
+@media (max-width: 512px) {
+ 
+}
+@media (max-width: 1200px) {
+  #b1 {
+    margin-top: 20px;
+    margin-bottom: 0;
+  }
+}
+@media (max-width: 768px) {
+  .social-icons {
+    display: flex;
+    justify-content: space-between;
+    width: 47%;
+  }
+}
+.game {
+  font-size: 48px;
+  font-family: prague;
+}
+.box1 {
+  position: relative;
+  font-family: "Helvetica";
+}
+.w-100 {
+  width: 100% !important;
+}
+.d-block {
+  display: block !important;
+}
+.mob-banner {
+  display: none;
+}
+@media only screen and (max-width: 600px) {
+  .mob-banner {
+    display: block !important;
+  }
+}
+.img-title {
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left: 0%;
+  right: 0;
+  top: 45%;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+}
+.brandsline {
+  font-size: 80px;
+}
+.brands-logos {
+  padding: 5%;
+}
+
+.meet-the-team {
+  margin: 0px !important;
+}
+@media screen and (max-width: 600px) {
+  .priyank {
+    margin-left: 0px !important;
+    padding: 0px;
+  }
+}
+
+@media (min-width: 768px) {
+  .col-md-5 {
+    flex: 0 0 auto;
+    width: 41.66666667%;
+  }
+  .banner-content {
+    text-align: justify;
+  }
+}
+.ml-1 {
+  padding-top: 20px;
+  text-transform: uppercase;
+  font-family: "prague";
+  letter-spacing: 3px;
+  font-weight: bolder;
+  font-size: 45px;
+}
+h2 {
+  font-size: 2rem;
+}
+b {
+  font-weight: bolder;
+}
+.banner-content {
+  letter-spacing: 1px;
+  word-spacing: 2px;
+  line-height: 25px;
+  font-size: 16px;
+}
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+.careers-style {
+  padding: 2%;
+  padding-right: 85px;
+  padding-left: 85px;
+}
+.car_step {
+  padding-right: 65px;
+}
+@media (min-width: 768px) {
+  .col-md-6 {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+}
+h5 {
+  font-size: 1.25rem;
+}
+.mt-4 {
+  margin-top: 1.5rem !important;
+}
+.mt-3 {
+  margin-top: 1rem !important;
+}
+@media (min-width: 768px) {
+  .col-md-12 {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+}
+
+.btn {
+  color: #ffffff;
+  padding: 10px 20px;
+  /* font-weight: bolder; */
+  box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+  background-color: #fbac29;
+}
+@media (min-width: 768px) {
+  .col-md-6 {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+}
+.card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 0.25rem;
+}
+.card-body {
+  flex: 1 1 auto;
+  min-height: 1px;
+  padding: 1.25rem;
+}
+.card-title {
+  margin-bottom: 0.75rem;
+}
+.form-group {
+  margin-bottom: 1rem;
+}
+
+.form-control {
+  display: block;
+  width: 100%;
+  height: calc(1.5em + 0.75rem + 2px);
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #495057;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+@media screen and (max-width: 600px) {
+  .car_step {
+    padding-right: 10px;
+    text-align: justify;
+    padding-left: 1px;
+    margin-left: 42px;
+  }
+  .banner-content {
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    line-height: 25px;
+    font-size: 16px;
+    margin-left: 23px;
+  }
+}
+/* .col-md-6 {
+  position: relative;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+} */
+@media (max-width: 768px) {
+  .careers-style {
+    padding: 2%;
+    padding-right: 85px;
+    padding-left: 26px;
+    /* text-align: center; */
+  }
+}
+@media screen and (max-width: 600px) {
+  .car_step1 {
+    padding-right: 10px;
+    text-align: justify;
+    padding-left: 1px;
+    margin-left: 42px;
+  }
+}
+@media (min-width: 768px) {
+  .col-md-6 {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+}
+.meet-the-team2 {
+  padding-top: 2%;
+  padding-left: 3%;
+  font-family: prague;
+}
+h2 {
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+  line-height: 1.2;
+}
+.old {
+  text-align: justify;
+  padding-top: -2% !important;
+  letter-spacing: 3px;
+  word-spacing: 3px;
+  font-family: prague;
+}
+button {
+  text-transform: none;
+}
+
+@media (min-width: 768px) {
+  .col-md-4 {
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+  }
+}
+.box16 {
+  text-align: center;
+  color: #fff;
+  position: relative;
+  margin-top: 20px;
+}
+
+.box16 .box-content {
+  padding: 20px;
+  margin-bottom: 20px;
+  bottom: 0;
+  z-index: 1;
+  width: 100%;
+  position: absolute;
+  left: 0;
+}
+.title {
+  font-size: 22px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: 0 0 10px;
+  transform: translateY(30px);
+  transition: all 0.4s cubic-bezier(0.13, 0.62, 0.81, 0.91) 0s;
+}
+.post {
+  display: block;
+  padding: 3px 0;
+  font-size: 15px;
+}
+.priyank-image {
+  box-shadow: 0 10px 16px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%) !important;
+  width: 100%;
+}
+.contacts {
+  padding-right: 70px;
+  padding-left: 70px;
+  margin: 46px;
+}
+.contact-us {
+  padding: 3%;
+}
+@media (min-width: 576px) {
+  .col-sm-6 {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+  .contact-us-2 {
+    margin-top: 12px;
+  }
+}
+.contact-us-2 {
+  padding: 5%;
+}
+
+@media screen and (max-width: 600px) {
+  .contacts {
+    padding-right: 15px !important;
+    padding-left: 15px !important;
+  }
+}
+
+	.navbar{
+	background: #0000008a!important;
+	/* background: #0000008a; */
+		}
+
+.navbar-nav li{
+	padding: 0 10px;
+
+}
+.navbar-nav li a{
+	color: white;
+	font-weight: 600;
+	font-weight: 20px;
+}
+
+.mob-logo{
+	display: none;
+}
+@media(max-width: 768px){
+	.mob-logo{
+		display: block;
+		height: 35px;
+	}
+	.desk-logo{
+		display: none;
+	}
+	/* .navbar{
+		background:#ffad00 ;
+	} */
+}
+.carousel-caption {
+        /* color: #fff; */
+        position: absolute;
+        top: 42%;
+        left: 153px;
+      }
+	  .carousel-caption h1 {
+        font-size: 70px;
+        /* border-bottom-style: ridge; */
+        /* font-weight: bold; */
+        /* border-bottom-color: #82c434; */
+        text-transform: uppercase;
+      }
+
+      @media (max-width: 1300px) {
+		.carousel-caption h1 {
+          font-size: 40px;
+        }
+      }
+      @media (max-width: 700px) {
+		.carousel-caption h1 {
+          font-size: 20px;
+        }
+      }
